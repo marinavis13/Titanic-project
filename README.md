@@ -36,7 +36,7 @@ Key features used in training include:
    - Accuracy scores
    - Confusion matrix
 
-## 🧪 Results
+## Results
 
 - The Random Forest classifier showed better performance than the Decision Tree.
 - Feature importance highlighted `Sex`, `Fare`, and `Pclass` as key survival indicators.
